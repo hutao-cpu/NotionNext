@@ -18,7 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '关于我的github',
+  HEO_HERO_TITLE_5: 'https://github.com/hutao-cpu/hutao-cpu',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
