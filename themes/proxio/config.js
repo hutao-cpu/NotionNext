@@ -162,7 +162,7 @@ const CONFIG = {
     PROXIO_ABOUT_TEXT_1: '胡桃桃',
     PROXIO_ABOUT_TEXT_2:
         '我啥也不知道，我只知道躺平喵',
-    PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
+    PROXIO_ABOUT_PHOTO_URL: 'https://i.bobopic.com/small/92433849.jpg',
     PROXIO_ABOUT_KEY_1: '学业方面',
     PROXIO_ABOUT_VAL_1: '摆烂',
     PROXIO_ABOUT_KEY_2: '感情方面',
