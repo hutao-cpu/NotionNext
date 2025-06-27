@@ -168,7 +168,7 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_2: '感情方面',
     PROXIO_ABOUT_VAL_2: '啥也不是',
     PROXIO_ABOUT_KEY_3: '爱好',
-    PROXIO_ABOUT_VAL_3: '抄作业',
+    PROXIO_ABOUT_VAL_3: '编程，篮球',
     PROXIO_ABOUT_KEY_4: '累积摆烂时长（小时）',
     PROXIO_ABOUT_VAL_4: '10000+',
 
