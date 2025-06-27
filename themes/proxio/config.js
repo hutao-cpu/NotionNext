@@ -100,7 +100,7 @@ const CONFIG = {
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+                '很喜欢这个主题，本代码小白用三天台风假期了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
