@@ -20,8 +20,8 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '来随便看看吧',
   HEO_HERO_TITLE_2: '这是一个私人网站',
-  HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '翻翻文章',
+  HEO_HERO_TITLE_3: '翻翻文章',
+  HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: 'https://hutaotaoyyg3362.xyz/article/212f452e-5b41-8045-8cc0-d226d68d26e7?theme=heo',
   // 英雄区遮罩文字
